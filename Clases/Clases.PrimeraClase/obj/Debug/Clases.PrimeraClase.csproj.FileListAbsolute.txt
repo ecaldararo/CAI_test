@@ -1,0 +1,7 @@
+H:\Escritorio\GitHub\CAI_Test\Clases\Clases.PrimeraClase\bin\Debug\Clases.PrimeraClase.exe.config
+H:\Escritorio\GitHub\CAI_Test\Clases\Clases.PrimeraClase\bin\Debug\Clases.PrimeraClase.exe
+H:\Escritorio\GitHub\CAI_Test\Clases\Clases.PrimeraClase\bin\Debug\Clases.PrimeraClase.pdb
+H:\Escritorio\GitHub\CAI_Test\Clases\Clases.PrimeraClase\obj\Debug\Clases.PrimeraClase.csprojAssemblyReference.cache
+H:\Escritorio\GitHub\CAI_Test\Clases\Clases.PrimeraClase\obj\Debug\Clases.PrimeraClase.csproj.CoreCompileInputs.cache
+H:\Escritorio\GitHub\CAI_Test\Clases\Clases.PrimeraClase\obj\Debug\Clases.PrimeraClase.exe
+H:\Escritorio\GitHub\CAI_Test\Clases\Clases.PrimeraClase\obj\Debug\Clases.PrimeraClase.pdb

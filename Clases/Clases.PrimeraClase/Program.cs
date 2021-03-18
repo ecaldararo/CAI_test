@@ -10,6 +10,7 @@ namespace Clases.PrimeraClase
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
