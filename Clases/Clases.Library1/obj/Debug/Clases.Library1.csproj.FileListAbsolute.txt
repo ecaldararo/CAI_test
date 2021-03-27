@@ -1,0 +1,6 @@
+H:\Escritorio\GitHub\CAI_test\Clases\Clases.Library1\bin\Debug\Clases.Library1.dll
+H:\Escritorio\GitHub\CAI_test\Clases\Clases.Library1\bin\Debug\Clases.Library1.pdb
+H:\Escritorio\GitHub\CAI_test\Clases\Clases.Library1\obj\Debug\Clases.Library1.csprojAssemblyReference.cache
+H:\Escritorio\GitHub\CAI_test\Clases\Clases.Library1\obj\Debug\Clases.Library1.csproj.CoreCompileInputs.cache
+H:\Escritorio\GitHub\CAI_test\Clases\Clases.Library1\obj\Debug\Clases.Library1.dll
+H:\Escritorio\GitHub\CAI_test\Clases\Clases.Library1\obj\Debug\Clases.Library1.pdb

@@ -5,3 +5,6 @@ H:\Escritorio\GitHub\CAI_Test\Clases\Clases.PrimeraClase\obj\Debug\Clases.Primer
 H:\Escritorio\GitHub\CAI_Test\Clases\Clases.PrimeraClase\obj\Debug\Clases.PrimeraClase.csproj.CoreCompileInputs.cache
 H:\Escritorio\GitHub\CAI_Test\Clases\Clases.PrimeraClase\obj\Debug\Clases.PrimeraClase.exe
 H:\Escritorio\GitHub\CAI_Test\Clases\Clases.PrimeraClase\obj\Debug\Clases.PrimeraClase.pdb
+H:\Escritorio\GitHub\CAI_Test\Clases\Clases.PrimeraClase\bin\Debug\Clases.Library1.dll
+H:\Escritorio\GitHub\CAI_Test\Clases\Clases.PrimeraClase\bin\Debug\Clases.Library1.pdb
+H:\Escritorio\GitHub\CAI_Test\Clases\Clases.PrimeraClase\obj\Debug\Clases.PrimeraClase.csproj.CopyComplete
