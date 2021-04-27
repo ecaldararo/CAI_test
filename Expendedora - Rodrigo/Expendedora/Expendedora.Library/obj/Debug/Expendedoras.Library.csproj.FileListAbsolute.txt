@@ -1,0 +1,6 @@
+C:\Users\silvi\OneDrive\Facu\Facu\Alumnos\CAI_890990_Expendedora-main\Expendedora\Expendedora.Library\bin\Debug\Expendedora.Library.dll
+C:\Users\silvi\OneDrive\Facu\Facu\Alumnos\CAI_890990_Expendedora-main\Expendedora\Expendedora.Library\bin\Debug\Expendedora.Library.pdb
+C:\Users\silvi\OneDrive\Facu\Facu\Alumnos\CAI_890990_Expendedora-main\Expendedora\Expendedora.Library\obj\Debug\Expendedoras.Library.csprojAssemblyReference.cache
+C:\Users\silvi\OneDrive\Facu\Facu\Alumnos\CAI_890990_Expendedora-main\Expendedora\Expendedora.Library\obj\Debug\Expendedoras.Library.csproj.CoreCompileInputs.cache
+C:\Users\silvi\OneDrive\Facu\Facu\Alumnos\CAI_890990_Expendedora-main\Expendedora\Expendedora.Library\obj\Debug\Expendedora.Library.dll
+C:\Users\silvi\OneDrive\Facu\Facu\Alumnos\CAI_890990_Expendedora-main\Expendedora\Expendedora.Library\obj\Debug\Expendedora.Library.pdb

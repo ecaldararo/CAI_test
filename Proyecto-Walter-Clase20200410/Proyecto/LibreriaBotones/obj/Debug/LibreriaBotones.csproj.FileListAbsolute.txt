@@ -1,0 +1,6 @@
+C:\source\Facu\Alumnos\CAI_-N-mero-Fecha-Nombre-del-ejercicio--main\Proyecto\LibreriaBotones\bin\Debug\LibreriaBotones.dll
+C:\source\Facu\Alumnos\CAI_-N-mero-Fecha-Nombre-del-ejercicio--main\Proyecto\LibreriaBotones\bin\Debug\LibreriaBotones.pdb
+C:\source\Facu\Alumnos\CAI_-N-mero-Fecha-Nombre-del-ejercicio--main\Proyecto\LibreriaBotones\obj\Debug\LibreriaBotones.csprojAssemblyReference.cache
+C:\source\Facu\Alumnos\CAI_-N-mero-Fecha-Nombre-del-ejercicio--main\Proyecto\LibreriaBotones\obj\Debug\LibreriaBotones.csproj.CoreCompileInputs.cache
+C:\source\Facu\Alumnos\CAI_-N-mero-Fecha-Nombre-del-ejercicio--main\Proyecto\LibreriaBotones\obj\Debug\LibreriaBotones.dll
+C:\source\Facu\Alumnos\CAI_-N-mero-Fecha-Nombre-del-ejercicio--main\Proyecto\LibreriaBotones\obj\Debug\LibreriaBotones.pdb

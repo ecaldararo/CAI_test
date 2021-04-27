@@ -1,0 +1,10 @@
+C:\source\Facu\Alumnos\CAI_-N-mero-Fecha-Nombre-del-ejercicio--main\Proyecto\ProyectoBotones\bin\Debug\ProyectoBotones.exe.config
+C:\source\Facu\Alumnos\CAI_-N-mero-Fecha-Nombre-del-ejercicio--main\Proyecto\ProyectoBotones\bin\Debug\ProyectoBotones.exe
+C:\source\Facu\Alumnos\CAI_-N-mero-Fecha-Nombre-del-ejercicio--main\Proyecto\ProyectoBotones\bin\Debug\ProyectoBotones.pdb
+C:\source\Facu\Alumnos\CAI_-N-mero-Fecha-Nombre-del-ejercicio--main\Proyecto\ProyectoBotones\bin\Debug\LibreriaBotones.dll
+C:\source\Facu\Alumnos\CAI_-N-mero-Fecha-Nombre-del-ejercicio--main\Proyecto\ProyectoBotones\bin\Debug\LibreriaBotones.pdb
+C:\source\Facu\Alumnos\CAI_-N-mero-Fecha-Nombre-del-ejercicio--main\Proyecto\ProyectoBotones\obj\Debug\ProyectoBotones.csprojAssemblyReference.cache
+C:\source\Facu\Alumnos\CAI_-N-mero-Fecha-Nombre-del-ejercicio--main\Proyecto\ProyectoBotones\obj\Debug\ProyectoBotones.csproj.CoreCompileInputs.cache
+C:\source\Facu\Alumnos\CAI_-N-mero-Fecha-Nombre-del-ejercicio--main\Proyecto\ProyectoBotones\obj\Debug\ProyectoBotones.csproj.CopyComplete
+C:\source\Facu\Alumnos\CAI_-N-mero-Fecha-Nombre-del-ejercicio--main\Proyecto\ProyectoBotones\obj\Debug\ProyectoBotones.exe
+C:\source\Facu\Alumnos\CAI_-N-mero-Fecha-Nombre-del-ejercicio--main\Proyecto\ProyectoBotones\obj\Debug\ProyectoBotones.pdb

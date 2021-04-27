@@ -1,0 +1,12 @@
+C:\Users\silvi\OneDrive\Facu\Facu\Alumnos\CAI_890990_Expendedora-main\Expendedora\Expendedora.Interfaz\bin\Debug\Expendedora.Interfaz.exe.config
+C:\Users\silvi\OneDrive\Facu\Facu\Alumnos\CAI_890990_Expendedora-main\Expendedora\Expendedora.Interfaz\bin\Debug\Expendedora.Interfaz.exe
+C:\Users\silvi\OneDrive\Facu\Facu\Alumnos\CAI_890990_Expendedora-main\Expendedora\Expendedora.Interfaz\bin\Debug\Expendedora.Interfaz.pdb
+C:\Users\silvi\OneDrive\Facu\Facu\Alumnos\CAI_890990_Expendedora-main\Expendedora\Expendedora.Interfaz\bin\Debug\ConsolaGenerico.dll
+C:\Users\silvi\OneDrive\Facu\Facu\Alumnos\CAI_890990_Expendedora-main\Expendedora\Expendedora.Interfaz\bin\Debug\Expendedora.Library.dll
+C:\Users\silvi\OneDrive\Facu\Facu\Alumnos\CAI_890990_Expendedora-main\Expendedora\Expendedora.Interfaz\bin\Debug\ConsolaGenerico.pdb
+C:\Users\silvi\OneDrive\Facu\Facu\Alumnos\CAI_890990_Expendedora-main\Expendedora\Expendedora.Interfaz\bin\Debug\Expendedora.Library.pdb
+C:\Users\silvi\OneDrive\Facu\Facu\Alumnos\CAI_890990_Expendedora-main\Expendedora\Expendedora.Interfaz\obj\Debug\Expendedora.Interfaz.csprojAssemblyReference.cache
+C:\Users\silvi\OneDrive\Facu\Facu\Alumnos\CAI_890990_Expendedora-main\Expendedora\Expendedora.Interfaz\obj\Debug\Expendedora.Interfaz.csproj.CoreCompileInputs.cache
+C:\Users\silvi\OneDrive\Facu\Facu\Alumnos\CAI_890990_Expendedora-main\Expendedora\Expendedora.Interfaz\obj\Debug\Expendedora.Interfaz.csproj.CopyComplete
+C:\Users\silvi\OneDrive\Facu\Facu\Alumnos\CAI_890990_Expendedora-main\Expendedora\Expendedora.Interfaz\obj\Debug\Expendedora.Interfaz.exe
+C:\Users\silvi\OneDrive\Facu\Facu\Alumnos\CAI_890990_Expendedora-main\Expendedora\Expendedora.Interfaz\obj\Debug\Expendedora.Interfaz.pdb
