@@ -1,0 +1,15 @@
+H:\Escritorio\GitHub\CAI_test\Forms\Forms.Prueba\obj\Debug\Forms.Prueba.csprojAssemblyReference.cache
+H:\Escritorio\GitHub\CAI_test\Forms\Forms.Prueba\obj\Debug\Forms.Prueba.Form1.resources
+H:\Escritorio\GitHub\CAI_test\Forms\Forms.Prueba\obj\Debug\Forms.Prueba.Properties.Resources.resources
+H:\Escritorio\GitHub\CAI_test\Forms\Forms.Prueba\obj\Debug\Forms.Prueba.csproj.GenerateResource.cache
+H:\Escritorio\GitHub\CAI_test\Forms\Forms.Prueba\obj\Debug\Forms.Prueba.csproj.CoreCompileInputs.cache
+H:\Escritorio\GitHub\CAI_test\Forms\Forms.Prueba\bin\Debug\Forms.Prueba.exe.config
+H:\Escritorio\GitHub\CAI_test\Forms\Forms.Prueba\bin\Debug\Forms.Prueba.exe
+H:\Escritorio\GitHub\CAI_test\Forms\Forms.Prueba\bin\Debug\Forms.Prueba.pdb
+H:\Escritorio\GitHub\CAI_test\Forms\Forms.Prueba\bin\Debug\Entidades.dll
+H:\Escritorio\GitHub\CAI_test\Forms\Forms.Prueba\bin\Debug\Negocio.dll
+H:\Escritorio\GitHub\CAI_test\Forms\Forms.Prueba\bin\Debug\Entidades.pdb
+H:\Escritorio\GitHub\CAI_test\Forms\Forms.Prueba\bin\Debug\Negocio.pdb
+H:\Escritorio\GitHub\CAI_test\Forms\Forms.Prueba\obj\Debug\Forms.Prueba.csproj.CopyComplete
+H:\Escritorio\GitHub\CAI_test\Forms\Forms.Prueba\obj\Debug\Forms.Prueba.exe
+H:\Escritorio\GitHub\CAI_test\Forms\Forms.Prueba\obj\Debug\Forms.Prueba.pdb

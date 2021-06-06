@@ -1,0 +1,9 @@
+H:\Escritorio\GitHub\CAI_test\Forms\Negocio\bin\Debug\Negocio.dll
+H:\Escritorio\GitHub\CAI_test\Forms\Negocio\bin\Debug\Negocio.pdb
+H:\Escritorio\GitHub\CAI_test\Forms\Negocio\bin\Debug\Entidades.dll
+H:\Escritorio\GitHub\CAI_test\Forms\Negocio\bin\Debug\Entidades.pdb
+H:\Escritorio\GitHub\CAI_test\Forms\Negocio\obj\Debug\Forms.Negocio.csprojAssemblyReference.cache
+H:\Escritorio\GitHub\CAI_test\Forms\Negocio\obj\Debug\Forms.Negocio.csproj.CoreCompileInputs.cache
+H:\Escritorio\GitHub\CAI_test\Forms\Negocio\obj\Debug\Forms.Negocio.csproj.CopyComplete
+H:\Escritorio\GitHub\CAI_test\Forms\Negocio\obj\Debug\Negocio.dll
+H:\Escritorio\GitHub\CAI_test\Forms\Negocio\obj\Debug\Negocio.pdb
