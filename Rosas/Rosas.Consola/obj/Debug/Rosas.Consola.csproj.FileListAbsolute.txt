@@ -1,0 +1,10 @@
+H:\Escritorio\GitHub\CAI_test\Rosas\Rosas.Consola\bin\Debug\Rosas.Consola.exe.config
+H:\Escritorio\GitHub\CAI_test\Rosas\Rosas.Consola\bin\Debug\Rosas.Consola.exe
+H:\Escritorio\GitHub\CAI_test\Rosas\Rosas.Consola\bin\Debug\Rosas.Consola.pdb
+H:\Escritorio\GitHub\CAI_test\Rosas\Rosas.Consola\bin\Debug\Entidades.dll
+H:\Escritorio\GitHub\CAI_test\Rosas\Rosas.Consola\bin\Debug\Entidades.pdb
+H:\Escritorio\GitHub\CAI_test\Rosas\Rosas.Consola\obj\Debug\Rosas.Consola.csprojAssemblyReference.cache
+H:\Escritorio\GitHub\CAI_test\Rosas\Rosas.Consola\obj\Debug\Rosas.Consola.csproj.CoreCompileInputs.cache
+H:\Escritorio\GitHub\CAI_test\Rosas\Rosas.Consola\obj\Debug\Rosas.Consola.csproj.CopyComplete
+H:\Escritorio\GitHub\CAI_test\Rosas\Rosas.Consola\obj\Debug\Rosas.Consola.exe
+H:\Escritorio\GitHub\CAI_test\Rosas\Rosas.Consola\obj\Debug\Rosas.Consola.pdb
